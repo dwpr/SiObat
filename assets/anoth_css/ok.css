@@ -1,0 +1,40 @@
+@media only screen and (min-width:768px)
+{
+    .sembunyi
+    {
+        display: none;
+    }
+}
+
+.garisbawah{
+        border-bottom: 1px solid #e7e7e7;
+}
+
+.subb{
+	padding-left: 10px;
+}
+
+.in_g{
+	border-radius: 0px;
+}
+
+.in_b{
+	border-radius: 0px;
+	position: relative;
+}
+
+.linkk{
+	text-decoration: none;
+}
+
+.igi{
+	width:93%;
+}
+
+.klik:hover{
+	cursor: pointer;
+}
+
+.hilang{
+	margin-bottom: 0px;
+}
